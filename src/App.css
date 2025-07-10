@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+input{
+  margin-right: 5px;
+  padding: 0.6em 1.2em;
+}
+.form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 50px;
+}
+
+li{
+  margin: 10px;
+  background-color: aliceblue;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  button{
+    margin-left: 10px;
+  }
+}
+p{
+  width: 100%;
+  margin-bottom: 10px;
+  border-bottom: 2px solid ;
+}
