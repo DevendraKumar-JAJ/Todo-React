@@ -17,7 +17,7 @@ Technologies Used 💻
 - CSS: Used for styling the app's UI.
 
 Getting Started 🚀
-1. Clone the repository: **git clone https://github.com/your-username/todo-list-app.git**
+1. Clone the repository: ''' git clone https://github.com/your-username/todo-list-app.git '''
 2. Install dependencies: **npm install**
 3. Start the app: **npm run dev**
 4. Open your browser and navigate to **http://localhost:5173/**
